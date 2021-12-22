@@ -30,7 +30,7 @@ void table5()
 {
     for (int i = 1; i <= 9; i++)
     {
-        cout << "5 x " << i << " = " << 5 * i << endl;
+        cout << "5 x " << i << " = " << 4 * i << endl;
     }
 }
 
